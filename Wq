@@ -1,0 +1,87 @@
+[33mcommit d25d4c63861a9778ccd7e55bacdb3f45fb486983[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mfeature[m[33m)[m
+Author: Oleksandra <kanunnjko01@gmail.com>
+Date:   Sat Mar 30 17:38:20 2024 +0200
+
+    add new
+
+[33mcommit 75c217e9d2f00d549b91f0caf1a641a70c542b0b[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m
+Author: Oleksandra Kanunnikova <kanunnjko01@gmail.com>
+Date:   Sat Mar 30 14:39:31 2024 +0200
+
+    no changes are allowed Reapply "finish second part"
+    
+    This reverts commit a59c39c9f89e746de5264333dd2c1d994667d4b7.
+
+[33mcommit a59c39c9f89e746de5264333dd2c1d994667d4b7[m
+Author: Oleksandra Kanunnikova <kanunnjko01@gmail.com>
+Date:   Sat Mar 30 14:35:35 2024 +0200
+
+    Revert "finish second part"
+    
+    This reverts commit 055995b002c126eb75468d58cd6d3612be446551.
+    
+    We have to go back in time !
+    :wq
+
+[33mcommit 055995b002c126eb75468d58cd6d3612be446551[m
+Author: Oleksandra Kanunnikova <kanunnjko01@gmail.com>
+Date:   Sat Mar 30 14:33:41 2024 +0200
+
+    finish second part
+
+[33mcommit 2aa1055e546b486435ae4c614a8fd8225388294a[m
+Author: kanunnikova23 <138119282+kanunnikova23@users.noreply.github.com>
+Date:   Sat Mar 30 13:33:42 2024 +0200
+
+    Update song.txt
+    
+    deletion of the merge conflict
+
+[33mcommit b4bfd9c19ec3c52142bc33f75701350f4839cb9c[m
+Merge: 73aa3f5 054aedb
+Author: Oleksandra Kanunnikova <kanunnjko01@gmail.com>
+Date:   Fri Mar 29 16:50:21 2024 +0200
+
+    removed a line from song.txt
+    added a line to readme
+
+[33mcommit 054aedb87e8863c56423d4828c06208a11595363[m
+Author: kanunnikova23 <138119282+kanunnikova23@users.noreply.github.com>
+Date:   Sat Mar 30 13:07:28 2024 +0200
+
+    Update song.txt
+    
+    +--------
+
+[33mcommit 73aa3f5983731ec72c032b3ae2be9d48fd63e7e0[m
+Author: Oleksandra Kanunnikova <kanunnjko01@gmail.com>
+Date:   Sat Mar 30 13:04:51 2024 +0200
+
+    finish second part
+
+[33mcommit d183e8bf5f6269a6f63cbae47f4fff222f62ef7f[m
+Author: Oleksandra Kanunnikova <kanunnjko01@gmail.com>
+Date:   Fri Mar 29 16:50:21 2024 +0200
+
+    removed a line from song.txt
+    added a line to readme
+
+[33mcommit 4b57216725761f543ebf64578c5710323e5cb019[m
+Author: kanunnikova23 <138119282+kanunnikova23@users.noreply.github.com>
+Date:   Fri Mar 29 16:37:28 2024 +0200
+
+    Update song.txt
+    
+    add two more lines to the song
+
+[33mcommit a810bb0e7e544061d12b470f62d172a3352301e2[m
+Author: Oleksandra Kanunnikova <kanunnjko01@gmail.com>
+Date:   Fri Mar 29 16:02:00 2024 +0200
+
+    add fist 4 lines of the song
+
+[33mcommit 8633cb6c9092e386981399cd37260ab84d7a2421[m
+Author: kanunnikova23 <138119282+kanunnikova23@users.noreply.github.com>
+Date:   Fri Mar 29 15:14:21 2024 +0200
+
+    Initial commit
